@@ -43,7 +43,7 @@ passport.use(new LocalStrategy(
         message: 'Logged In Successfully'
       })
 
-      // if error
+      //if error
       // .catch(err => {
       //   return done(err);
       // });
